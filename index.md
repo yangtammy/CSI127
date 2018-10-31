@@ -5,7 +5,12 @@ You can use the [editor on GitHub](https://github.com/yangtammy/CSI127/edit/mast
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+Inline-style:
+![alt text](https://github.com/yangtammy/CSI127/blob/master/CaliforniaDrought_02232011_md.png "California")
+Reference-style: 
+![alt text][California]
 
+[California]: https://github.com/yangtammy/CSI127/blob/master/CaliforniaDrought_02232011_md.png "California"
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
