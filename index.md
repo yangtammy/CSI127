@@ -1,4 +1,5 @@
 # Welcome to Maspeth
+Maspeth is located in Queens, New York with a zip code of 11378.
 
 ## Outline of Maspeth:
 ![geoJSON](https://raw.githubusercontent.com/yangtammy/CSI127/master/geoJSON%20Map.png)
@@ -62,5 +63,6 @@ These statistics are from Turnstile 01-00-00
 The plots above for turnstile 01-00-00 show that, generally, the number of entries was higher than the number of exits. However, the difference between the number of entries and the number of exits was less significant during the weekends, especially on Sunday.
 
 Number of Entries for the turnstile for the week: 6,896
+
 Number of Exits for the turnstile for the week: 3,153 
 
