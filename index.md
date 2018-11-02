@@ -47,16 +47,16 @@ These statistics are from Turnstile 01-00-00
 
 #### The Cumulative Number of Entries
 
-![Entries](https://github.com/yangtammy/CSI127/blob/master/Entries.png)
+![Entries](https://raw.githubusercontent.com/yangtammy/CSI127/master/Entries.png)
 
 #### The Cumulative Number of Exits
 
 
-![Exits](https://github.com/yangtammy/CSI127/blob/master/Exits.png)
+![Exits](https://raw.githubusercontent.com/yangtammy/CSI127/master/Exits.png)
 
 #### The Difference of Entries and Exits
 
-![Difference](https://github.com/yangtammy/CSI127/blob/master/Difference.png)
+![Difference](https://raw.githubusercontent.com/yangtammy/CSI127/master/Difference.png)
 
 #### Patterns in the data: 
 The plots above for turnstile 01-00-00 show that, generally, the number of entries was higher than the number of exits. However, the difference between the number of entries and the number of exits was less significant during the weekends, especially on Sunday.
