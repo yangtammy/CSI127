@@ -1,8 +1,7 @@
 # Welcome to Maspeth
-#Testing
 
 ## Outline of Maspeth:
-![geoJSON](https://github.com/yangtammy/CSI127/blob/master/geoJSONMap.png)
+![geoJSON](https://raw.githubusercontent.com/yangtammy/CSI127/master/geoJSON%20Map.png)
 
 #### Map key: 
 
